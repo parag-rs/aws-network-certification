@@ -7,7 +7,7 @@ Materials for AWS Certified Advanced Network Specialty Certification Crash Cours
 ## AWS
 
 ### Billing
-* [AWS Network Speciality] (https://learning.oreilly.com/live-training/courses/aws-certified-advanced-networking-specialty-crash-course/0636920498896/)
+* [AWS Network Speciality](https://learning.oreilly.com/live-training/courses/aws-certified-advanced-networking-specialty-crash-course/0636920498896/)
 * [Twitter: AWS Data Transfer Costs](https://twitter.com/QuinnyPig/status/1172239124251709449/photo/1)
 * [AWS Direct Connect pricing](https://aws.amazon.com/directconnect/pricing/)
 * [Amazon CloudFront Pricing](https://aws.amazon.com/cloudfront/pricing/)
